@@ -9,7 +9,7 @@ Nele foi testado principalmente meu CSS, onde manipulei a imagem de fundo do sit
 Tendo como base a página da música "Felina" do artista WIU na OneRPM, foi refeito o layout do site de maneira simples e bem fiel ao modelo de base que já é seguido na plataforma.
 
 >Página original(o print contém outra música):
-![Original](https://i.imgur.com/7xdgSnG.png)
+![gif-an-tes](https://user-images.githubusercontent.com/100325007/192617940-6532edb2-a243-4e81-b0c3-9d6799744ea5.gif)
 
 >Página recriada:
 ![gif-demontrs](https://user-images.githubusercontent.com/100325007/192616604-072ff609-e157-41eb-bbce-f55e79c6a8c9.gif)
