@@ -19,3 +19,5 @@ Links relevantes
 >+ [Projeto no CodePen](https://codepen.io/lucahborges/full/Rwyxrwm);
 >+ [Meu Twitter](https://twitter.com/lucahborges_25);
 >+ [Meu LinkedIn](https://www.linkedin.com/in/lucas-henrique-borges-b66565211/);
+
+<h6>README.md atualizado no dia 27/09/2022 às 16:41</h6>
