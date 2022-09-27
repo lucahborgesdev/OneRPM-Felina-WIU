@@ -14,3 +14,8 @@ Tendo como base a página da música "Felina" do artista WIU na OneRPM, foi refe
 >Página recriada:
 ![gif-demontrs](https://user-images.githubusercontent.com/100325007/192616604-072ff609-e157-41eb-bbce-f55e79c6a8c9.gif)
 
+Links relevantes
+
+>+ [Projeto no CodePen](https://codepen.io/lucahborges/full/Rwyxrwm);
+>+ [Meu Twitter](https://twitter.com/lucahborges_25);
+>+ [Meu LinkedIn](https://www.linkedin.com/in/lucas-henrique-borges-b66565211/);
